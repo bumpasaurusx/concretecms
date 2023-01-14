@@ -3,7 +3,7 @@
 Welcome to the official repository for Concrete CMS development! Concrete CMS is an open source CMS built by people from 
 around the world. Want to get involved? Check out our [contributor guide](https://github.com/concretecms/concretecms/blob/develop/CONTRIBUTING.md) for more info.
 
-## Documentation
+## Documentation 
 
 If you're looking for Concrete CMS documentation, you'll want to navigate over to [documentation.concretecms.org](https://documentation.concretecms.org). 
 If you see anything that needs more information or is just completely wrong, contributions are welcomed! 
